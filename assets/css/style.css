@@ -75,7 +75,7 @@ main {
 }
 
 /*section element: main content of webpage*/
-main article {
+main section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -84,7 +84,7 @@ main article {
     color: #ffffff;
 }
 
-/*image for each article*/
+/*image for each section*/
 main img {
     max-height: 200px;
 }
@@ -99,7 +99,7 @@ main img {
     margin-left: 25px;
 }
 
-/*header for each article*/
+/*header for each section*/
 main h2 {
     margin-bottom: 20px;
     font-size: 36px;
