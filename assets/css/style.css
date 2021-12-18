@@ -1,3 +1,4 @@
+/** Global declarations **/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -9,7 +10,8 @@ body {
     font-size: 16px;
 }
 
-/* BEGIN Header content */
+/** Header content **/
+/*header container*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -17,6 +19,7 @@ header {
     color: #ffffff;
 }
 
+/*brand name at top of webpage*/
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -26,6 +29,7 @@ header h1 {
     color: #d9dcd6;
 }
 
+/*nav elements at top of webpage*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -34,9 +38,11 @@ nav {
     font-size: 20px;
 }
 
+/**** is this necessary?
 nav ul {
     list-style-type: none;
 }
+*/
 
 nav ul li {
     display: inline-block;
@@ -47,7 +53,9 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/** END Header content **/
 
+/** Hero content **/
 .hero {
     height: 800px;
     width: 100%;
@@ -56,16 +64,18 @@ a {
     background-size: cover;
     background-position: center;
 }
-/* END Header content */
+/** END Hero content **/
 
-/* BEGIN Section content */
-section {
+/** Main content **/
+/*section container*/
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-section article {
+/*section element: main content of webpage*/
+main article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -74,7 +84,8 @@ section article {
     color: #ffffff;
 }
 
-section img {
+/*image for each article*/
+main img {
     max-height: 200px;
 }
 
@@ -88,13 +99,15 @@ section img {
     margin-left: 25px;
 }
 
-section h2 {
+/*header for each article*/
+main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* END Section content */
+/** END Section content **/
 
-/* BEGIN Aside content */
+/** Aside content **/
+/*aside container*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -106,24 +119,28 @@ aside {
     background-color: #2589bd;
 }
 
+/*aside element: benefits listed on side of webpage*/
 aside article {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/*header for each benefit*/
 aside article h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*image for each benefit*/
 aside article img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/* END Aside content */
+/** END Aside content **/
 
-/* BEGIN Footer content */
+/** Footer content **/
+/*footer container*/
 footer {
     padding: 30px;
     clear: both;
@@ -131,7 +148,8 @@ footer {
     text-align: center;
 }
 
+/*footer header*/
 footer h2 {
     font-size: 20px;
 }
-/* END Footer content */
+/** END Footer content **/
