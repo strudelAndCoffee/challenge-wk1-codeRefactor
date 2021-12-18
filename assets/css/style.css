@@ -1,4 +1,4 @@
-/** Global declarations **/
+/** Global Declarations **/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -10,7 +10,7 @@ body {
     font-size: 16px;
 }
 
-/** Header content **/
+/** Header Content **/
 /*header container*/
 header {
     padding: 20px;
@@ -51,9 +51,8 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-/** END Header content **/
 
-/** Hero content **/
+/** Hero Content **/
 .hero {
     height: 800px;
     width: 100%;
@@ -62,9 +61,8 @@ a {
     background-size: cover;
     background-position: center;
 }
-/** END Hero content **/
 
-/** Main content **/
+/** Main Section Content **/
 /*section container*/
 main {
     width: 75%;
@@ -102,9 +100,8 @@ main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/** END Section content **/
 
-/** Aside content **/
+/** Aside "Benefits" Content **/
 /*aside container*/
 aside {
     margin-right: 20px;
@@ -135,9 +132,8 @@ aside article img {
     margin: 10px auto;
     max-width: 150px;
 }
-/** END Aside content **/
 
-/** Footer content **/
+/** Footer Content **/
 /*footer container*/
 footer {
     padding: 30px;
@@ -150,4 +146,3 @@ footer {
 footer h2 {
     font-size: 20px;
 }
-/** END Footer content **/
