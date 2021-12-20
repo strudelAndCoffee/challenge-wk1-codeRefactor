@@ -1,6 +1,6 @@
-# Horiseon
+# Horiseon Code Refactoring
 
-## UT Code Boot Camp - Week 1 Challenge: Website Code Refactoring
+## UT Code Boot Camp - Week 1 Challenge
 
 ## Description
 
@@ -26,7 +26,3 @@ https://strudelandcoffee.github.io/challenge-wk1-codeRefactor/
 ![alt text](https://github.com/strudelAndCoffee/challenge-wk1-codeRefactor/blob/e7728178228960635f49c0bb85f1ad57504cb95e/assets/images/screenshot2.png)
 
 ![alt text](https://github.com/strudelAndCoffee/challenge-wk1-codeRefactor/blob/e7728178228960635f49c0bb85f1ad57504cb95e/assets/images/screenshot3.png)
-
-## Contribution
-
-Made with ❤️ by Stephen Trudell, December 2021
