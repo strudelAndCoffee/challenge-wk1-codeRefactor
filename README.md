@@ -38,6 +38,4 @@ THEN I find a concise, descriptive title
 
 ## Screenshots
 
-<img src="./wk1/Develop/assets/images/screenshot1.png" />
-<img src="./wk1/Develop/assets/images/screenshot2.png" />
-<img src="./wk1/Develop/assets/images/screenshot3.png" />
+![App Screenshot]("https://github.com/strudelAndCoffee/challenge-wk1-codeRefactor/tree/main/assets/images/screenshot1.png")
