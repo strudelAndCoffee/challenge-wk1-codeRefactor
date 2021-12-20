@@ -36,6 +36,14 @@ THEN I find that they fall in sequential order
 THEN I find a concise, descriptive title
 ```
 
+## Website
+
+https://strudelandcoffee.github.io/challenge-wk1-codeRefactor/
+
 ## Screenshots
 
 ![alt text](https://github.com/strudelAndCoffee/challenge-wk1-codeRefactor/blob/f787f61acb83c99227511e6ee124997dec2b6cc3/assets/images/screenshot1.png)
+
+![alt text](https://github.com/strudelAndCoffee/challenge-wk1-codeRefactor/blob/e7728178228960635f49c0bb85f1ad57504cb95e/assets/images/screenshot2.png)
+
+![alt text](https://github.com/strudelAndCoffee/challenge-wk1-codeRefactor/blob/e7728178228960635f49c0bb85f1ad57504cb95e/assets/images/screenshot3.png)
