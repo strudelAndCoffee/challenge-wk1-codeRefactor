@@ -36,8 +36,8 @@ THEN I find that they fall in sequential order
 THEN I find a concise, descriptive title
 ```
 
-# Screenshots
+## Screenshots
 
-<img src="./Screenshot-1.png" />
-<img src="./Screenshot-2.png" />
-<img src="./Screenshot-3.png" />
+<img src="./wk1/Develop/assets/images/screenshot1.png" />
+<img src="./wk1/Develop/assets/images/screenshot2.png" />
+<img src="./wk1/Develop/assets/images/screenshot3.png" />
