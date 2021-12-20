@@ -11,11 +11,9 @@ refacoring to increase legibility for developers.
 
 ## User Story
 
-```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our site is optimized for search engines
-```
 
 ## Website
 
@@ -28,3 +26,7 @@ https://strudelandcoffee.github.io/challenge-wk1-codeRefactor/
 ![alt text](https://github.com/strudelAndCoffee/challenge-wk1-codeRefactor/blob/e7728178228960635f49c0bb85f1ad57504cb95e/assets/images/screenshot2.png)
 
 ![alt text](https://github.com/strudelAndCoffee/challenge-wk1-codeRefactor/blob/e7728178228960635f49c0bb85f1ad57504cb95e/assets/images/screenshot3.png)
+
+## Contribution
+
+Made with ❤️ by Stephen Trudell, December 2021
