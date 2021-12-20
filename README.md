@@ -7,7 +7,7 @@
 Horiseon, a company that offers search engine optimization, online reputation management,
 and social media marketing assitance to clients, has a website home page that needs to meet 
 accessibility standards for potential clients with disabilities, and source code that needs
-refacoring to increase legibility for developers.
+refactoring to increase legibility for developers.
 
 ## User Story
 
