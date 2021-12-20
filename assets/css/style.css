@@ -70,7 +70,7 @@ main {
     margin-left: 20px;
 }
 
-/*section element: main content of webpage*/
+/*main section elements*/
 main section {
     margin-bottom: 20px;
     padding: 50px;
@@ -114,7 +114,7 @@ aside {
     background-color: #2589bd;
 }
 
-/*aside element: benefits listed on side of webpage*/
+/*aside elements: benefits listed on side of webpage*/
 aside article {
     margin-bottom: 32px;
     color: #ffffff;
