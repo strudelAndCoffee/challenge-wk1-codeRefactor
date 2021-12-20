@@ -38,4 +38,4 @@ THEN I find a concise, descriptive title
 
 ## Screenshots
 
-![alt text]("https://github.com/strudelAndCoffee/challenge-wk1-codeRefactor/tree/main/assets/images/screenshot1.png")
+![alt text]("https://Develop/assets/images/screenshot1.png")
